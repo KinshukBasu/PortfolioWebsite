@@ -1,1 +1,1 @@
-app.static_folder = 'static'
+FlaskApp.static_folder = 'static'
